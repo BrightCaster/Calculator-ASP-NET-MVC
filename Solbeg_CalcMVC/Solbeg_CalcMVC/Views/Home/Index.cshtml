@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Calculator";
+}
+
+<form method="post" action="/Home/Result">
+    <table border="0">
+        <tr>
+            <td>
+                <input id="arg" name="arg" value="@Model" width="100" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input name="sumbit" type="submit" value="=" />
+            </td>
+        </tr>
+       
+        <tr>
+            <td>
+                <input type="submit" name="Reset" value="C" width="50" />
+            </td>
+        </tr>
+    </table>
+</form>
+<form method="post" action="/Home/Result1">
+    <table border="0">
+        <tr>
+            <td>
+                <input type="submit" name="digit" value="1" width="50" />
+                <input type="submit" name="digit" value="2" width="50" />
+                <input type="submit" name="digit" value="3" width="50" />
+                <input type="submit" name="digit" value="+" width="50" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" name="digit" value="4" width="50" />
+                <input type="submit" name="digit" value="5" width="50" />
+                <input type="submit" name="digit" value="6" width="50" />
+                <input type="submit" name="digit" value="-" width="50" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" name="digit" value="7" width="50" />
+                <input type="submit" name="digit" value="8" width="50" />
+                <input type="submit" name="digit" value="9" width="50" />
+                <input type="submit" name="digit" value="*" width="50" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" name="digit" value="0" width="50" />
+                <input type="submit" name="digit" value="," width="50" />
+                <input type="submit" name="digit" value="/" width="50" />
+            </td>
+        </tr>
+    </table>
+</form>
