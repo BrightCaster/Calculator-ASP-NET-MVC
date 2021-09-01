@@ -18,6 +18,10 @@ The usual calculator is based on ASP NET MVC
 
 
 <p>The answer will be a new line with the total number</p>
+
+![yFxwRgE07tQ](https://user-images.githubusercontent.com/64326994/131697243-aec89e5d-e084-4637-a4e7-613f438fa394.jpg)
+
+
 <p>Second example:</p>
 <h1>12,541/5</h1>
 <h1>2,5082</h1>
