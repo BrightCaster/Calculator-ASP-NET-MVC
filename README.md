@@ -13,6 +13,10 @@ The usual calculator is based on ASP NET MVC
 
 <p>The calculation is performed between two numbers, both integers and real ones</p>
 <p>Example to use:</p><h1>49+58</h1>
+
+![n7BzwwiYcd4](https://user-images.githubusercontent.com/64326994/131697008-af1998b1-2287-4ec0-887f-e8d5aee665c2.jpg)
+
+
 <p>The answer will be a new line with the total number</p>
 <p>Second example:</p>
 <h1>12,541/5</h1>
