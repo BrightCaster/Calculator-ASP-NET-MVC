@@ -25,3 +25,5 @@ The usual calculator is based on ASP NET MVC
 <p>Second example:</p>
 <h1>12,541/5</h1>
 <h1>2,5082</h1>
+![rd0WcWghEGU](https://user-images.githubusercontent.com/64326994/131697406-1ec46d75-12be-4734-b54e-dc7c3dd62929.jpg)
+
